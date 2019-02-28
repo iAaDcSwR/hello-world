@@ -1,4 +1,4 @@
 # hello-world
-Just another respository
+Just another repository
 
 This line is new.
